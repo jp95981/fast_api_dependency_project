@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: fast_api_dependency_injection
+Version: 0.1.0
+Summary: A minimal example project
+Author-email: Your Name <your.email@example.com>
+License: MIT
+Requires-Dist: requests>=2.0
+Requires-Dist: dependency_injector
+Requires-Dist: pydantic-settings
+Requires-Dist: fastapi[standard]
